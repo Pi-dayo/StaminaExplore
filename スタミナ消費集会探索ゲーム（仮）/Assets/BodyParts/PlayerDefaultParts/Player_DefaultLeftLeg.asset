@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1c87b3157070b4c98049177086de13, type: 3}
+  m_Name: Player_DefaultLeftLeg
+  m_EditorClassIdentifier: 
+  name: DefaultLeftLeg
+  sprite:
+  - {fileID: 21300000, guid: eafad4bc65f266f41a144fcc08db9b5d, type: 3}
+  - {fileID: 21300000, guid: 9a511c0bca0afbc42be668b3b8c45928, type: 3}
+  - {fileID: 21300000, guid: 2331799170abb0641973d2dc8500f95d, type: 3}
+  - {fileID: 21300000, guid: b4cbc0920b18dee46adde31e976706a3, type: 3}
+  - {fileID: 21300000, guid: 749eaad37b4d3da48955dec846ee3291, type: 3}
+  - {fileID: 21300000, guid: ffd0f1ffa0f4be848b9c50c7999fcc58, type: 3}
+  - {fileID: 21300000, guid: 822da7e0f8325c14195fe1bcd7f5b050, type: 3}
+  - {fileID: 21300000, guid: 831d866ef429a914aa18a59454e248ba, type: 3}
+  description: "\u901A\u5E38\u306E\u5DE6\u8DB3"
+  partType: 0

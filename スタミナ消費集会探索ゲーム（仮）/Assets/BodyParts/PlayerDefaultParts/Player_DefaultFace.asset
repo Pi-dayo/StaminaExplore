@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1c87b3157070b4c98049177086de13, type: 3}
+  m_Name: Player_DefaultFace
+  m_EditorClassIdentifier: 
+  name: DefautFace
+  sprite:
+  - {fileID: 21300000, guid: addee7724cc0d9f4593f5e7d6d6db32b, type: 3}
+  - {fileID: 21300000, guid: 1178acc75c226b443ba261f4808f50b2, type: 3}
+  - {fileID: 21300000, guid: e4e3131d3a5e87d4eb4687757b3a2b19, type: 3}
+  - {fileID: 21300000, guid: c9f6eacc3f9d06940a1f519f8bebd329, type: 3}
+  - {fileID: 21300000, guid: 7bfe5414fa3d8ae4399e7024f3681ec6, type: 3}
+  - {fileID: 21300000, guid: bbe9af23253e7b747bde583e3d109efc, type: 3}
+  - {fileID: 21300000, guid: ed3af22f4aecd074c81f43fa1a61a310, type: 3}
+  - {fileID: 21300000, guid: 176f91660795bc3419c5abafbd7648a1, type: 3}
+  description: "\u901A\u5E38\u306E\u9854"
+  partType: 0

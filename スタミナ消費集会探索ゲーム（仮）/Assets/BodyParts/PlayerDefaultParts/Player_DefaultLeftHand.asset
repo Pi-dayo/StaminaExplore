@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1c87b3157070b4c98049177086de13, type: 3}
+  m_Name: Player_DefaultLeftHand
+  m_EditorClassIdentifier: 
+  name: DefaultLeftHand
+  sprite:
+  - {fileID: 21300000, guid: d8d78167bba2eab41bb568b6d1aa5993, type: 3}
+  - {fileID: 21300000, guid: f30a8da7fafd4bb4894027e62459a698, type: 3}
+  - {fileID: 21300000, guid: 38fc7ded65f95214090abbb3cc050df7, type: 3}
+  - {fileID: 21300000, guid: 1b910cd2448312d469da9a0cea2d7989, type: 3}
+  - {fileID: 21300000, guid: 76638bee036aa1c4c90cd0f8e70a7b28, type: 3}
+  - {fileID: 21300000, guid: e27057b3cf74ca647a6fc496214e5453, type: 3}
+  - {fileID: 21300000, guid: db88d9fe2c6d2a44ea1e49b7a686abea, type: 3}
+  - {fileID: 21300000, guid: 5847a9865f99ed148bbd49d6a9eaf2df, type: 3}
+  description: "\u901A\u5E38\u306E\u5DE6\u624B"
+  partType: 0

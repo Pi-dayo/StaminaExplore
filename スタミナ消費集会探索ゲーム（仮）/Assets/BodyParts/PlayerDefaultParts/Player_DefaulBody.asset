@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1c87b3157070b4c98049177086de13, type: 3}
+  m_Name: Player_DefaulBody
+  m_EditorClassIdentifier: 
+  name: DefaultBody
+  sprite:
+  - {fileID: 21300000, guid: 57e93561457b20849b72fba3ee609912, type: 3}
+  - {fileID: 21300000, guid: 951327d9fe80e604f89c8d75d2ac2217, type: 3}
+  - {fileID: 21300000, guid: 96b5ec50317a01a49b6f060f8349bbc4, type: 3}
+  - {fileID: 21300000, guid: 2ab735e5e381ec3449f2b58dff2c4de1, type: 3}
+  - {fileID: 21300000, guid: 16666e5370b158243bac20e2f0ff0bb8, type: 3}
+  - {fileID: 21300000, guid: 209b07c50291d194c8af9640fa512fd4, type: 3}
+  - {fileID: 21300000, guid: 2320029ce2f2df84fa54bad89fafc07b, type: 3}
+  - {fileID: 21300000, guid: 4ae38328121a34042be635b19ad3d3c8, type: 3}
+  description: "\u901A\u5E38\u306E\u4F53"
+  partType: 0

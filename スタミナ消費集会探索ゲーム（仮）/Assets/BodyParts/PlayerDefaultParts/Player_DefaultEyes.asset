@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1c87b3157070b4c98049177086de13, type: 3}
+  m_Name: Player_DefaultEyes
+  m_EditorClassIdentifier: 
+  name: DefaultEyes
+  sprite:
+  - {fileID: 21300000, guid: 98413f54cc131744fb2f4b72c3f2ac95, type: 3}
+  - {fileID: 21300000, guid: 2c86e16d3b7e761459ed40b5ebe13d76, type: 3}
+  - {fileID: 21300000, guid: e778f1c34cacfb240950c21a9509ed5d, type: 3}
+  - {fileID: 21300000, guid: 3e0b7ce490ec83741b3ef1a6f54aebf7, type: 3}
+  - {fileID: 21300000, guid: 064b2ff79ef890b45ba4210addcca4f9, type: 3}
+  - {fileID: 21300000, guid: 03afbeecb1fd06949a709e43b2690b5d, type: 3}
+  - {fileID: 21300000, guid: bab37d13121fe3645a4ffdc16ac4feb7, type: 3}
+  - {fileID: 21300000, guid: a71231e293ee1c84d8b9f6fe9099b4a8, type: 3}
+  description: "\u901A\u5E38\u306E\u76EE"
+  partType: 0
